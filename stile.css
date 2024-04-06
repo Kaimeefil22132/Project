@@ -1,0 +1,46 @@
+/* Установка шрифта и цвета текста */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  /* Установка фона и отступов */
+  .container {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  /* Стили для заголовков */
+  h1 {
+    font-size: 24px;
+    color: #555;
+  }
+  
+  h2 {
+    font-size: 20px;
+    color: #777;
+  }
+  
+  /* Стили для ссылок */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Стили для кнопок */
+  .button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
